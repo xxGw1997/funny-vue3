@@ -4,6 +4,7 @@ import App from './App.vue'
 import router from './router'
 const pinia = createPinia()
 
+
 import 'virtual:windi.css'
 
 
