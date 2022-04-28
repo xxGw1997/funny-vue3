@@ -1,0 +1,15 @@
+:root {
+    --m-bg: #fff;
+    --m-scrollbar: #ccc;
+    --m-scrollbar-hover: #aaa;
+}
+
+html {
+    background-color: var(--m-bg);
+}
+
+html.dark {
+    --m-bg: #050505;
+    --m-scrollbar: #111;
+    --m-scrollbar-hover: #222;
+}
